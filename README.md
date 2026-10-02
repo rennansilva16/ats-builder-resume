@@ -14,7 +14,7 @@ O projeto foi desenvolvido utilizando **Lovable**, com uma abordagem orientada p
 
 **Acesse a aplicação publicada:**
 
-👉 **[ATS Resume Builder — Aplicação](COLOCAR-LINK-DA-APLICACAO-AQUI)**
+👉 **[ATS Resume Builder — Aplicação](https://ats-builder-resume.lovable.app/)**
 
 A aplicação está publicada e pode ser acessada pelo endereço acima.
 
@@ -231,9 +231,7 @@ As imagens foram organizadas para demonstrar o funcionamento da aplicação como
 
 A página inicial apresenta a proposta do ATS Resume Builder e permite que o usuário entre na aplicação ou crie uma nova conta.
 
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
+![Página Inicial](./docs/images/pagina-inicial.png)
 
 A tela apresenta o objetivo principal da aplicação e direciona o usuário para o fluxo de autenticação.
 
@@ -243,9 +241,7 @@ A tela apresenta o objetivo principal da aplicação e direciona o usuário para
 
 Após entrar na aplicação, o usuário encontra o dashboard com uma visão geral de suas candidaturas.
 
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
+![Dashboard](./docs/images/dashboard.png)
 
 O dashboard apresenta:
 
@@ -267,9 +263,7 @@ Também disponibiliza ações rápidas para:
 
 O perfil profissional funciona como a principal fonte de informações do usuário.
 
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
+![Perfil](./docs/images/meu-perfil.png)
 
 O perfil é dividido em:
 
@@ -291,9 +285,7 @@ Essas informações podem posteriormente ser reutilizadas em diferentes candidat
 
 A área de vagas apresenta as oportunidades já cadastradas pelo usuário.
 
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
+![Vagas cadastradas](./docs/images/vagas-cadastradas.png)
 
 A tela permite consultar as vagas existentes e iniciar o cadastro de uma nova oportunidade.
 
@@ -313,9 +305,7 @@ A seguir, o processo completo é demonstrado desde a escolha da fonte de dados a
 
 Ao iniciar uma nova candidatura, o usuário escolhe de onde serão obtidas as informações profissionais.
 
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
+![Fonte de Dados](./docs/images/fonte-dados.png)
 
 Existem duas possibilidades:
 
@@ -335,9 +325,7 @@ Essa segunda opção permite trabalhar com um currículo que ainda não foi cada
 
 Quando o usuário escolhe colar um currículo, a aplicação disponibiliza uma área de texto para inserir o conteúdo.
 
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
+![Colar Currículo](./docs/images/colar-curriculo.png)
 
 Após clicar em **Interpretar currículo**, a Inteligência Artificial analisa o conteúdo e identifica informações profissionais presentes no documento.
 
@@ -347,9 +335,8 @@ Após clicar em **Interpretar currículo**, a Inteligência Artificial analisa o
 
 Depois da interpretação, as informações encontradas são apresentadas em campos estruturados para revisão.
 
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
+![Revisão dos dados extraídos do currículo 1](./docs/images/revisao-dados-extraidos-1.png)
+![Revisão dos dados extraídos do currículo 2](./docs/images/revisao-dados-extraidos-2.png)
 
 O usuário pode revisar as informações antes de continuar.
 
@@ -367,9 +354,7 @@ Essa etapa evita que informações sejam adicionadas ao perfil sem confirmação
 
 Na etapa seguinte, o usuário informa os dados da oportunidade.
 
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
+![Cadastro de vaga](./docs/images/cadastro-vaga.png)
 
 São disponibilizados campos para:
 
@@ -395,9 +380,7 @@ Antes da análise, a aplicação permite revisar as informações cadastradas.
 
 Após preencher os dados, a aplicação apresenta uma revisão da oportunidade cadastrada.
 
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
+![Revisão da vaga](./docs/images/revisao-vaga.png)
 
 O usuário pode conferir as informações antes de iniciar a análise.
 
@@ -411,9 +394,13 @@ Ao confirmar, utiliza a ação:
 
 Esta é uma das principais funcionalidades do projeto.
 
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
+![Resultado da Análise de Compatibilidade 1](./docs/images/resultado-analise-1.png)
+
+![Resultado da Análise de Compatibilidade 2](./docs/images/resultado-analise-2.png)
+
+![Resultado da Análise de Compatibilidade 3](./docs/images/resultado-analise-3.png)
+
+![Resultado da Análise de Compatibilidade 4](./docs/images/resultado-analise-4.png)
 
 A aplicação apresenta:
 
@@ -428,67 +415,36 @@ O objetivo é permitir que o usuário entenda não apenas o percentual apresenta
 
 ---
 
-## 11. Currículo personalizado
+## 11. Revisão do currículo
 
 Após analisar a vaga, o usuário pode solicitar a geração de um currículo personalizado.
 
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
-
 A aplicação utiliza os dados profissionais e os requisitos identificados na vaga para selecionar e adaptar as informações mais relevantes para aquela oportunidade.
-
-O documento é apresentado para revisão antes da exportação.
-
----
-
-## 12. Revisão do currículo
 
 O currículo gerado pode ser editado antes de ser finalizado.
 
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
+![Currículo gerado 1](./docs/images/curriculo-gerado-1.png)
+
+![Currículo gerado 2](./docs/images/curriculo-gerado-2.png)
+
 
 O usuário pode ajustar as informações do documento e conferir o resultado antes de exportá-lo.
 
 Essa etapa mantém o usuário como responsável pela aprovação do conteúdo final.
 
----
-
-## 13. Currículos salvos
-
-A área de currículos reúne os documentos que foram criados para as vagas cadastradas.
-
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
-
-Os currículos ficam associados às respectivas oportunidades, permitindo consultar posteriormente os documentos gerados.
-
----
-
-## 14. Exportação do currículo em PDF
-
 Depois da revisão, o usuário pode exportar o currículo.
-
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
 
 O resultado é um arquivo PDF pronto para utilização em processos seletivos.
 
 ---
 
-# ⚙️ Configurações
+## 12. Currículos gerados
 
-A aplicação possui uma área de configurações para gerenciamento dos dados da conta.
+A área de currículos reúne os documentos que foram criados para as vagas cadastradas.
 
-```
-COLOCAR-LINK-DA-APLICACAO-AQUI
-```
+![Currículos gerados](./docs/images/curriculos-gerados.png)
 
-Nessa área, o usuário pode consultar e editar suas informações de conta.
+Os currículos ficam associados às respectivas oportunidades, permitindo consultar posteriormente os documentos gerados.
 
 ---
 
@@ -639,11 +595,11 @@ Este repositório foi criado como parte da entrega do projeto desenvolvido no cu
 
 ### Aplicação publicada
 
-🌐 **[Acessar o ATS Resume Builder](COLOCAR-LINK-DA-APLICACAO-AQUI)**
+🌐 **[Acessar o ATS Resume Builder](https://ats-builder-resume.lovable.app/)**
 
 ### Repositório
 
-📁 **[GitHub](COLOCAR-LINK-DO-REPOSITORIO-AQUI)**
+📁 **[GitHub](https://github.com/rennansilva16/ats-builder-resume)**
 
 ### Documentação
 

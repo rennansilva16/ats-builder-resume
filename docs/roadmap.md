@@ -1,8 +1,8 @@
 # 🗺️ Roadmap
 
-A versão atual representa o MVP funcional do projeto.
+A versão atual representa o **MVP funcional** do projeto.
 
-O projeto foi pensado para continuar evoluindo após essa primeira versão.
+O projeto foi pensado para continuar evoluindo após esta primeira versão.
 
 ## Etapa 1 — MVP
 
@@ -24,9 +24,8 @@ O projeto foi pensado para continuar evoluindo após essa primeira versão.
 
 - [ ] Múltiplos modelos de currículo;
 - [ ] Versionamento avançado;
-- [ ] Comparação entre versões;
 - [ ] Personalização visual;
-- [ ] Análise avançada de qualidade do currículo;
+- [ ] Análise avançada da qualidade do currículo;
 - [ ] Biblioteca de currículos.
 
 ## Etapa 3 — Desenvolvimento profissional
@@ -44,8 +43,6 @@ O projeto foi pensado para continuar evoluindo após essa primeira versão.
 - [ ] Integrações com plataformas de emprego;
 - [ ] Notificações e lembretes;
 - [ ] Relatórios avançados;
-- [ ] Automação de acompanhamento de candidaturas.
-
-O roadmap representa a visão de evolução do projeto e não significa que essas funcionalidades estejam disponíveis na versão atual.
+- [ ] Automação do acompanhamento de candidaturas.
 
 ---
